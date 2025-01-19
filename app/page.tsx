@@ -3,7 +3,6 @@ import { useState } from "react";
 import LoginPage from "@/components/login/LoginComponent";
 import { SessionWrapper } from "@/components/login/SessionWrapper";
 import SignupPage from "@/components/login/SignupComponent";
-import { auth } from "@/lib/auth";
 
 export default function Home() {
 
